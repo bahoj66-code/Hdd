@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hay Day Backup</string>
+    <string name="shizuku_not_running">Shizuku is not running. Please start Shizuku first.</string>
+    <string name="shizuku_permission_denied">Shizuku permission denied.</string>
+    <string name="overlay_permission_required">Overlay permission required for the floating button.</string>
+    <string name="backup_success">Backup completed successfully!</string>
+    <string name="backup_failed">Backup failed: %1$s</string>
+    <string name="backup_in_progress">Backing up…</string>
+    <string name="start_floating_button">Show Floating Button</string>
+    <string name="stop_floating_button">Hide Floating Button</string>
+    <string name="grant_overlay_permission">Grant Overlay Permission</string>
+    <string name="shizuku_status_ok">Shizuku: Ready</string>
+    <string name="shizuku_status_not_running">Shizuku: Not Running</string>
+    <string name="shizuku_status_no_permission">Shizuku: Permission Needed</string>
+    <string name="request_shizuku_permission">Request Shizuku Permission</string>
+    <string name="backup_location">Backup location: /sdcard/HayDayBackups/</string>
+    <string name="channel_name">Hay Day Backup Service</string>
+    <string name="channel_desc">Shows floating backup button</string>
+    <string name="notification_title">Hay Day Backup</string>
+    <string name="notification_text">Floating backup button is active</string>
+</resources>
